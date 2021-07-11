@@ -1,0 +1,7 @@
+"id","name","username","email","password","createdAt","updatedAt"
+1,"Adam","adamgkz","adam@grokonez.com","$2a$08$i02fAzeFriThJABkZ1fsXeXLr4cSkSjvFZeNMAw4crFSVBZR62wfi","2021-03-15T21:34:15.000Z","2021-03-15T21:34:15.000Z"
+2,"Jack","jackgkz","jack@grokonez.com","$2a$08$ugVeeG1W6bKYi6GvPHqmo.bbfgojBqlNrJe813KMjkkfcSTGcCBfi","2021-03-15T21:34:17.000Z","2021-03-15T21:34:17.000Z"
+3,"Thomas","thomasgkz","thomas@grokonez.com","$2a$08$HkHnYn.TRDBP.K2ET1yjwuyIv7tDRiGCnFtRO12C0ffl6pqr4/whO","2021-03-15T21:34:18.000Z","2021-03-15T21:34:18.000Z"
+4,"Finance","kritsr","finance001_@hotmail.com","$2a$08$j8/S2KpAogzkIRo6.fMwMutgQ4cdUOZMMEpo9hxAmFqDOA7kSQ1cC","2021-03-16T04:15:52.000Z","2021-03-16T04:15:52.000Z"
+5,,"test01","test01@hotmail.com","$2a$08$QuZURo0UqE7tAsiV7U1ahe3SfNeKeG3yefn3VxyblG2RbjfFGmqi2","2021-03-18T07:40:19.000Z","2021-03-18T07:40:19.000Z"
+6,"Admin","admin","admin@gmail.com","$2a$08$qOCnLZIyBRbmTfor22uyJOhgd9vuXc4t1H5/iuttEyQDI9HMBPxiq","2021-03-22T06:51:08.000Z","2021-03-22T06:51:08.000Z"

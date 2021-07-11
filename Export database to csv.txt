@@ -1,0 +1,9 @@
+https://bezkoder.com/node-js-export-mysql-csv-file/
+
+https://bezkoder.com/node-js-upload-excel-file-database/
+
+https://grokonez.com/node-js/node-js-extract-mysql-data-to-excel-xlsx-file-using-exceljs
+
+https://grokonez.com/node-js/node-js-extract-mysql-data-to-excel-xlsx-file-using-exceljs/attachment/nodejs-export-mysql-data-to-excel-file-using-exceljs-mysql-records
+
+https://www.geeksforgeeks.org/how-to-import-data-from-csv-file-into-mysql-table-using-node-js/

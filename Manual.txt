@@ -1,0 +1,11 @@
+Step 1
+npm install
+
+Step 2
+download Xampp and run Apache and MySQL
+
+Step 3 
+Open phpMyAdmin --> Create Database name testdb
+
+Step 4
+npm start
